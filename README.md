@@ -19,7 +19,7 @@ This project helps analyze confirmed cases, recovery rates, death statistics, va
 
 # 📸 Dashboard Preview
 
-![Dashboard Preview](images/dashboard.png)
+![Dashboard Preview](excel_img_png)
 
 ---
 
